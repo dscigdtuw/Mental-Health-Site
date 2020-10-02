@@ -3,8 +3,8 @@
 
 # Vision
 
-Aginig People who live alone mostly faces anxiety, loneliness and mental torture. And in this Pandemic situation where we have to live inside our homes it leads to more stress in their lives.
-To overcome this situation we make a site where people come forward and answer to each other queries related to mental torture. So in this site there are some memory games supported by positive physiology to result in mindfullness research, blogs to how to overcome mental disorders, Chat box and much more interesting things.
+Aging People who live alone mostly faces anxiety, loneliness and mental torture. And in this Pandemic situation where we have to live inside our homes it leads to more stress in their lives.
+To overcome this situation we make a site where people come forward and answer to each other queries related to mental torture. So in this site there are some memory games supported by positive physiology to result in mindfullness research, blogs to how to overcome mental disorders, AI based Chat box and much more interesting things.
 
 
 
