@@ -8,29 +8,50 @@ To overcome this situation we make a site where people come forward and answer t
 
 
 
-# Objective
+# Objective :
 
 This website helps people to realise that they are not not alone by adding a kind of entertainment in their life digitally. Also this site with creative concepts educate people about some mental disorders and how to react while suffering, what meditations are necessary and all points will considered.
 
 
 
-# Tools Used
+# Tools Used :
 
-Html
-CSS
-JavaScript
-Bootstrap
-jquery
+* Html
+* CSS
+* JavaScript
+* Bootstrap
+* jquery
+* API
+* node.js
+* mongoose
 
 
 
-# Website Map
+# Installation :
 
-[dsc[133].docx](https://github.com/dscigdtuw/Mental-Health-Site/files/5318553/dsc.133.docx)
+## Clone:
+Clone this repo to your local machine as
+https://github.com/dscigdtuw/Mental-Health-Site.git
+
+## Setup:
+Setup your directory as cloned repo
+
+
+
+# Website Map :
 
 ![image](https://user-images.githubusercontent.com/67700414/94935522-cc37cf00-04ea-11eb-863a-7962958fac22.png)
 
 
+
+
+#  Code of Conduct :
+
+
+
+
+
+# License : 
 
 
 
