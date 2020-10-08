@@ -45,6 +45,10 @@ Setup your directory as cloned repo
 
 <br />
 
+# Project Admins
+
+@Sejalaloria.github.io 
+
 #  Code of Conduct :
 
 
