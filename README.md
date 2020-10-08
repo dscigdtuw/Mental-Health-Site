@@ -46,7 +46,7 @@ Setup your directory as cloned repo
 <br />
 
 # Project Admins
-* @SejalAloria
+* @ https://github.com/SejalAloria
 
 #  Code of Conduct :
 
