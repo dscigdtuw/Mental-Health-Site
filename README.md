@@ -45,7 +45,9 @@ Setup your directory as cloned repo
 
 <br />
 
+# For More Information
 
+Refer to this video  https://www.youtube.com/watch?v=HKOxLOKeBHo
 
 #  Code of Conduct :
 
